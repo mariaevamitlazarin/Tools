@@ -1,0 +1,9 @@
+nome,cidade,estado,data_de_inscricao,idade,salario_r,ativo,_quality_flags
+Ana Souza,São Paulo,SP,2021-03-15,34,4500.0,True,
+Bruno Lima,Sao Paulo,SP,2021-03-15,29,3200.5,True,
+Ana Souza,Sao Paulo,SP,2021-03-15,34,4500.0,True,
+Carlos Mendes,Rio De Janeiro,RJ,2020-01-13,,7800.0,False,idade:out_of_range
+Débora Sã£O,Belo Horizonte,MG,2099-01-01,41,,True,data_de_inscricao:future_date
+Eduardo Rocha,Curtiba,PR,2019-07-01,,,False,idade:out_of_range
+Fernanda Alves,Salvador,BA,2022-08-20,27,6100.0,True,
+Gustavo,Recife,PE,2023-12-10,38,8200.0,False,
