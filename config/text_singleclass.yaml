@@ -1,0 +1,17 @@
+# Example pipeline configuration.
+# Swap content_type / task_type to target any modality x task combination.
+
+content_type: text          # text | image | audio | mixed
+task_type: single_class     # single_class | multi_label | spans | bbox | ranking
+
+classes:                    # the label space for this task
+  - spam
+  - ham
+
+labeler: rules              # rules | classifier | llm | ensemble
+
+router:
+  threshold: 0.85           # confidence at/above which we auto-accept
+
+output:
+  path: outputs/dataset.jsonl

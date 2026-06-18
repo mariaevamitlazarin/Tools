@@ -1,0 +1,13 @@
+[project]
+name = "labeling-pipeline"
+version = "0.1.0"
+description = "Semi-automatic content labeling pipeline (content x task adapters + human-in-the-loop)"
+requires-python = ">=3.10"
+dependencies = []                 # core runs on the stdlib
+
+[project.optional-dependencies]
+yaml = ["pyyaml>=6"]              # for cli.py config loading
+dev = ["pytest>=7"]
+
+[tool.setuptools]
+packages = ["core", "content", "tasks", "labelers", "ingestion", "review", "feedback"]
