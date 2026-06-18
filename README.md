@@ -7,11 +7,11 @@
 # <span style="color:FF2F92">This tool (code) join ideias to solve some datasets that we need to organize to use</span>
 
 > [!attention]
-> Espace to notes or attention
+> All content aren't real.
 
 
 > [!tip]
-> Espace to notes or attention
+> Each branch has a mission or task - So... You can choose all or what you need. Enjoy it - Eva 🍏 Eva's Tools.
 
 
 ---
