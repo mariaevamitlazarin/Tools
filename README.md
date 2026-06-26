@@ -23,12 +23,20 @@ https://github.com/mariaevamitlazarin/Tools/tree/SyntheticGeneratorClassificatio
 SyntheticGeneratorRegression
 https://github.com/mariaevamitlazarin/Tools/tree/SyntheticGeneratorRegression
 
+SyntheticGeneratorClustering
+https://github.com/mariaevamitlazarin/Tools/tree/SyntheticGeneratorClustering
+
 TicketSupportL0 
 https://github.com/mariaevamitlazarin/Tools/tree/TicketSupportL0
 
 TicketSupportLvL0
 https://github.com/mariaevamitlazarin/Tools/tree/TicketSupportLvL0
 
+LabelingPipeline
+https://github.com/mariaevamitlazarin/Tools/tree/LabelingPipeline
+
+CleaningNormalizing
+https://github.com/mariaevamitlazarin/Tools/tree/CleaningNormalizing
 
 ---
 
